@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:37:13 +0530] "GET /HelloWorldWeb HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:37:13 +0530] "GET /HelloWorldWeb/ HTTP/1.1" 200 351 http-bio-8080-exec-4 35
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:38:14 +0530] "GET /HelloWorldWeb/hello.html HTTP/1.1" 200 351 http-bio-8080-exec-6 7
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:38:52 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 63 http-bio-8080-exec-7 160
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:39:28 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 63 http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:39:30 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 63 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:40:44 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-1 101
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:44:48 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-1 96
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:45:03 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:45:05 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:49:43 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-1 102
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:50:08 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:50:10 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 65 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [18/Jul/2016:23:50:13 +0530] "GET /HelloWorldWeb/hello2.html HTTP/1.1" 200 66 http-bio-8080-exec-4 2046
